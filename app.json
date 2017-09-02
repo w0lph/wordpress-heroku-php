@@ -23,8 +23,7 @@
     }
   },
   "addons": [
-    "cleardb",
-    "sendgrid",
+    "cleardb",    
     "memcachier",
     "papertrail",
     "newrelic"
